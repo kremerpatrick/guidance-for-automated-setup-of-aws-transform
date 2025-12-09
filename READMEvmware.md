@@ -21,7 +21,7 @@
 
 ## Overview
 
-This Guidance provides an automated approach to deploy AWS Transform using infrastructure as code (IaC). It simplifies deployment by automatically provisioning AWS services and security controls required by AWS Transform. The guidance accelerates time-to-value for organizations migrating and modernizing their workloads while ensuring adherence to AWS best practices and security standards. AWS Transform is the first agentic AI service developed to accelerate enterprise modernization of workloads.
+This Guidance provides an automated approach to deploy AWS Transform for VMware resources using infrastructure as code (IaC), streamlining the setup process by automating the provisioning of required AWS services, network configurations, and security controls. The guidance accelerates time-to-value for organizations migrating and modernizing their VMware workloads while ensuring adherence to AWS best practices and security standards.
 
 The journey begins with a thorough discovery and assessment of your on-premises VMware environment.
 
