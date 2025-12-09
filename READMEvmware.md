@@ -14,7 +14,6 @@
 5. [Deployment Validation](#deployment-validation)
 6. [Running the Guidance](#running-the-guidance)
 7. [FAQ, known issues, additional considerations, and limitations](#faq-known-issues-additional-considerations-and-limitations)
-   - [AWS Transform for .NET](#aws-transform-dotnet)
    - [Service Quotas](#service-quotas)
 8. [Cleanup](#cleanup)
 9. [Authors](#authors-optional)
@@ -287,16 +286,6 @@ Phase 2: Set up IAM Identity Center
 ![transform start](assets/transform_start.png)
 
 ## FAQ, known issues, additional considerations, and limitations
-
-### AWS Transform for .NET
-
-For those looking to modernize their organizations .NET applications, view this [README](READMEdotnet.md) for further guidance.
-AWS Transform for .NET is a service designed to accelerate the modernization of Windows-based .NET Framework applications to cross-platform .NET for Linux environments. It leverages generative AI to automate and streamline the process of porting applications, aiming to reduce the time and effort typically involved in such migrations. AWS Transform for .NET provides:
-
-- Analysis of .NET Framework codebases from source control systems, including private NuGet support
-- Automated transformation of legacy .NET Framework applications to cross-platform .NET
-- Integration with source control platforms (BitBucket, GitHub, and GitLab)
-- Validation of transformed code through unit tests
 
 ### Service Quotas
 

@@ -14,7 +14,6 @@
 5. [Deployment Validation](#deployment-validation)
 6. [Running the Guidance](#running-the-guidance)
 7. [FAQ, known issues, additional considerations, and limitations](#faq-known-issues-additional-considerations-and-limitations)
-   - [AWS Transform for VMware](#aws-transform-vmware)
    - [Service Quotas](#service-quotas)
 8. [Cleanup](#cleanup)
 9. [Authors](#authors)
@@ -353,18 +352,6 @@ Then you can examine the detailed message and determine the root cause of an err
 and make necessary updates. In this example the issue is resolved by adding necessary IAM permission policy.
 
 ## FAQ, known issues, additional considerations, and limitations
-
-### AWS Transform for VMware
-
-For organizations looking to migrate and modernize their VMware workloads to AWS, view the [VMware README](READMEvmware.md) for comprehensive guidance. AWS Transform for VMware is an agentic AI service that accelerates enterprise modernization of VMware workloads by providing:
-
-- Automated discovery and assessment of VMware environments using RVTools and AWS Discovery agents
-- Intelligent wave planning using Graph Neural Networks to analyze application dependencies
-- Automated network conversion from on-premises VMware to AWS using CloudFormation templates
-- Orchestrated migration execution with AWS Application Migration Service
-- Support for both hub-and-spoke and isolated VPC networking models
-
-AWS Transform for VMware helps optimize infrastructure and reduce operational overhead, giving you a more predictable, cost-efficient path to modernization.
 
 ### Service Quotas
 
