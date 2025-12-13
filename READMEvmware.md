@@ -359,5 +359,6 @@ When both stacks are successfully deleted, the corresponding AWS resources shoul
 
 - Pranav Kumar, GenAI Labs Builder SA
 - Ashish Bhatia, Sr. SSA, Microsoft - ISV
-- Deepika Suresh, SA Tech Solns
-- Daniel Zilberman, Sr. Specialist SA, AWS Solutions
+- Daniel Zilberman, Sr. Specialist SA, AWS Tecnhical Solutions
+- Deepika Suresh, Specialist SA, AWS Tecnhical Solutions
+
