@@ -208,15 +208,15 @@ Users should refer to the [AWS Transform security documentation](https://docs.aw
 
 1. After enabling IAM Identity Center manually and waiting for updates to propagate, run the second BASH script
 
-   Pass in the following parameters using the bash script:
+   Pass in the following parameters using selected script:
 
-   STACK_NAME: {name of cloudformation stack}.
-   TEMPLATE_PATH: {path to phase2 yaml}.
-   ACCOUNT_NUMBER: {AWS account number}.
-   IDENTITY_CENTER_ID: {AWS Identity Center ID}.
-   ADMIN_EMAIL: {Email for admin user provisioned by script}.
+   - STACK_NAME: {name of cloudformation stack}.
+   - TEMPLATE_PATH: {path to phase2 yaml}.
+   - ACCOUNT_NUMBER: {AWS account number}.
+   - IDENTITY_CENTER_ID: {AWS Identity Center ID}.
+   - ADMIN_EMAIL: {Email for admin user provisioned by script}.
 
-   BASH:
+   BASH script:
 
    ```bash
        source % ./deploy-phase2.sh
