@@ -220,7 +220,7 @@ By adhering to these security principles and leveraging AWS's robust security fe
 
 1. After enabling IAM Identity Center manually and waiting for updates to propagate, run the second BASH script
 
-   Pass in the following parameters using the bash script:
+   Pass in the following parameters using selected script:
 
    - STACK_NAME: {name of cloudformation stack}.
    - TEMPLATE_PATH: {path to phase2 yaml}.
@@ -374,5 +374,7 @@ When both stacks are successfully deleted, the corresponding AWS resources shoul
 
 Pranav Kumar, GenAI Labs Builder SA  
 Ashish Bhatia, Sr. SSA, Microsoft - ISV  
-Deepika Suresh, SA Tech Solns  
-Daniel Zilberman, Sr. Specialist SA, AWS Solutions
+Deepika Suresh, SA AWS Techical Solutions  
+Daniel Zilberman, Sr. Specialist SA, AWS Techical Solutions
+<br/>Jeremiah Webb, Associate Specialist SA, AWS Techical Solutions
+
