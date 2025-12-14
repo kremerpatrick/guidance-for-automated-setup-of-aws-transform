@@ -358,7 +358,7 @@ When both stacks are successfully deleted, the corresponding AWS resources shoul
 ## Authors
 
 - Pranav Kumar, GenAI Labs Builder SA
-- Ashish Bhatia, Sr. SSA, Microsoft - ISV
+- Johanna Wood, Technical Domain Lead, 
 - Daniel Zilberman, Sr. Specialist SA, AWS Tecnhical Solutions
 - Deepika Suresh, Specialist SA, AWS Tecnhical Solutions
 
